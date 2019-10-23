@@ -42,7 +42,4 @@ VALUES("Capital City Mambo Sauce", "grocery", 13.00, 30);
 INSERT INTO Products(product_name, department_name, price, stock_quantity)
 VALUES("Little Seeds Piper Crib", "baby", 350.00, 36);
 
-CREATE TABLE Departments(
-    DepartmentID
-)
 
